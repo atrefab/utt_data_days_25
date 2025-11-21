@@ -60,15 +60,6 @@ Le troisième notebook vous montre créer une application concrète. Vous appren
    
 5. Ouvrez les notebooks dans l'ordre (01, 02, 03) et suivez les instructions.
 
-## Structure du projet
-
-```
-utt_data_days_25/
-├── 01_introduction_llm.ipynb
-├── 02_introduction_mcp.ipynb
-├── 03_applications_MCP_Google_Agenda.ipynb
-└── README.md
-```
 
 ---
 
